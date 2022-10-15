@@ -1,0 +1,8 @@
+hr {
+  display: grid;
+  border-style: dotted;
+}
+
+body {
+  background-color: #E9A6A6;
+}
